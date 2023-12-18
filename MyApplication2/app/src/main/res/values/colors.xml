@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="btn_warna">#194A9C</color>
+    <color name="stroke">#968F8F</color>
+
+    <!-- Random colors -->
+    <color name="bgColor">#C4DBEC</color>
+    <color name="_bg__login_ek2_color">#FFFFFF</color>
+    <color name="rectangle_1_color">#184A9B</color>
+    <color name="login_ek3_color">#000000</color>
+    <color name="email_color">#726969</color>
+    <color name="button_color">#194A9C</color>
+
+
+    <!-- Set Lokasi colors -->
+    <color name="_bg__set_lokasi_ek2_color">#FFFFFF</color>
+    <color name="silahkan_pilih_lokasi_kerja_terlebih_dahulu_color">#000000</color>
+    <color name="pilih_lokasi_disini_color">#726969</color>
+
+    <!-- menu main office RU II -->
+    <color name="pengecekan_personil_TA">#4285F4</color>
+    <color name="pengecekan_mitra_kerja">#EFAD4D</color>
+    <color name="pengecekan_pekerja">#5CB85C</color>
+    <color name="pengecekan_tamu">#5BC0DE</color>
+    <color name="pengecekan_TKJP">#AC4F4F</color>
+
+</resources>

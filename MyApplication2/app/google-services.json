@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "340635096988",
+    "project_id": "login-register-dcu-firebase",
+    "storage_bucket": "login-register-dcu-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340635096988:android:51f08906e2bb51ffd19a59",
+        "android_client_info": {
+          "package_name": "com.annisarahmah02.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340635096988-pgtou07rog3bhi310dmauubn07l56ub6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CpB8kttiEBxA05mMfZ5r7TfSMy5q_Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340635096988-pgtou07rog3bhi310dmauubn07l56ub6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340635096988:android:6860fbacb5a6afc6d19a59",
+        "android_client_info": {
+          "package_name": "com.elma207.dcuproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340635096988-pgtou07rog3bhi310dmauubn07l56ub6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CpB8kttiEBxA05mMfZ5r7TfSMy5q_Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340635096988-pgtou07rog3bhi310dmauubn07l56ub6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<!-- setlokasi.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/white" /> <!-- Fill color of the background -->
+    <corners android:radius="20dp" /><!-- Adjust radius for desired roundness -->
+
+
+    <stroke
+        android:width="2dp"
+        android:color="#968F8F"
+        />
+</shape>

@@ -1,0 +1,5 @@
+<!-- bgtamu.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#5BC0DE" /> <!-- Fill color of the background -->
+    <corners android:radius="30dp" /> <!-- Adjust radius for desired roundness -->
+</shape>

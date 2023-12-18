@@ -1,0 +1,22 @@
+{
+"data":[
+  {
+    "id": 1,
+    "nobadge": "34456",
+    "name": "John Doe",
+    "address": "123 Main Street, City A"
+  },
+  {
+    "id": 2,
+    "nobadge": "34457",
+    "name": "Jane Smith",
+    "address": "456 Elm Avenue, City B"
+  },
+  {
+    "id": 3,
+    "nobadge": "34656",
+    "name": "Michael Johnson",
+    "address": "789 Oak Road, City C"
+  }
+]
+}

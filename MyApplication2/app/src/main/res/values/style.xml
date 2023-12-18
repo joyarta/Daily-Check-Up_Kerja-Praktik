@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomEmailInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Customize the text color -->
+        <item name="android:textColor">@color/black</item>
+        <!-- You can customize other attributes here as well -->
+    </style>
+</resources>

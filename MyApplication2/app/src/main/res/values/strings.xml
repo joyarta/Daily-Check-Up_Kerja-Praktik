@@ -1,0 +1,25 @@
+<resources>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="klik_untuk_register">Klik untuk Register</string>
+    <string name="click_to_login">Klik untuk Login</string>
+    <string name="logout">logout</string>
+
+    <string-array name="drop_name">
+        <item>Main Office RU II</item>
+        <item>Kantor Kuning</item>
+        <item>Gate Kerosine</item>
+        <item>Gate Premium</item>
+        <item>Gate Avtur</item>
+        <item>Gedung Diklat</item>
+        <item>Pool Kendaraan</item>
+        <item>Office Marine</item>
+        <item>Lingkungan RDP</item>
+        <item>On The Spot</item>
+        <item>Kilang Sei Pakning</item>
+        <item>Marine Sei Kilang</item>
+    </string-array>
+    <string name="app_name" />
+</resources>
